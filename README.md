@@ -1,6 +1,7 @@
 # For Hackabull 2021
 ## Score-Without-4
 A Python based Connect 4 derivative game!
+Inspiration: Keith Galli - https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw
 
 <img width="250" alt="Screen Shot 2021-03-14 at 6 59 06 AM" src="https://user-images.githubusercontent.com/69592206/111066044-62f1ba00-8493-11eb-8303-8cd07caaeabf.png">
 
