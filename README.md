@@ -1,9 +1,10 @@
 # For Hackabull 2021
 ## Score-Without-4
 A Python based Connect 4 derivative game!
-<img width="702" alt="Screen Shot 2021-03-14 at 6 59 06 AM" src="https://user-images.githubusercontent.com/69592206/111066044-62f1ba00-8493-11eb-8303-8cd07caaeabf.png">
 
-<img width="698" alt="Screen Shot 2021-03-14 at 6 58 38 AM" src="https://user-images.githubusercontent.com/69592206/111066045-65ecaa80-8493-11eb-8be9-3f19af839e6d.png">
+<img width="250" alt="Screen Shot 2021-03-14 at 6 59 06 AM" src="https://user-images.githubusercontent.com/69592206/111066044-62f1ba00-8493-11eb-8303-8cd07caaeabf.png">
+
+<img width="250" alt="Screen Shot 2021-03-14 at 6 58 38 AM" src="https://user-images.githubusercontent.com/69592206/111066045-65ecaa80-8493-11eb-8be9-3f19af839e6d.png">
 
 ## Inspiration 
 Our team's inspiration came from our passion for games. We wanted to build our own game and learn how to program our own version of a user friendly video game.
