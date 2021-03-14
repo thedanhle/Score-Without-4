@@ -1,5 +1,5 @@
-# For Hackabull 2021
-## Score-Without-4
+# For Hackabull 2021 - Score Without 4
+
 A Python based Connect 4 derivative game!
 
 
