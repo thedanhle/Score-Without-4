@@ -4,6 +4,7 @@ A Python based Connect 4 derivative game!
 
 
 Inspiration: Keith Galli - https://github.com/KeithGalli/Connect4-Python
+Demo: https://www.youtube.com/watch?v=QW-wijW8GKw&ab_channel=DanhLe
 
 <img width="250" alt="Screen Shot 2021-03-14 at 6 59 06 AM" src="https://user-images.githubusercontent.com/69592206/111066044-62f1ba00-8493-11eb-8303-8cd07caaeabf.png">
 
